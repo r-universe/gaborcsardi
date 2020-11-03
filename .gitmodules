@@ -22,6 +22,7 @@
 	path = isa2
 	url = https://github.com/gaborcsardi/isa
 	shallow = true
+	subdir = isa2
 [submodule "keypress"]
 	path = keypress
 	url = https://github.com/gaborcsardi/keypress
