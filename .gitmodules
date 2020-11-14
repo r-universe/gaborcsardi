@@ -2,75 +2,60 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
-	branch = HEAD
 [submodule "clisymbols"]
 	path = clisymbols
 	url = https://github.com/gaborcsardi/clisymbols
 	shallow = true
-	branch = HEAD
 [submodule "disposables"]
 	path = disposables
 	url = https://github.com/gaborcsardi/disposables
 	shallow = true
-	branch = HEAD
 [submodule "dotenv"]
 	path = dotenv
 	url = https://github.com/gaborcsardi/dotenv
 	shallow = true
-	branch = HEAD
 [submodule "franc"]
 	path = franc
 	url = https://github.com/gaborcsardi/franc
 	shallow = true
-	branch = HEAD
 [submodule "isa2"]
 	path = isa2
 	url = https://github.com/gaborcsardi/isa
 	shallow = true
-	branch = HEAD
 	subdir = isa2
 [submodule "keypress"]
 	path = keypress
 	url = https://github.com/gaborcsardi/keypress
 	shallow = true
-	branch = HEAD
 [submodule "lpSolve"]
 	path = lpSolve
 	url = https://github.com/gaborcsardi/lpsolve
 	shallow = true
-	branch = HEAD
 [submodule "parsedate"]
 	path = parsedate
 	url = https://github.com/gaborcsardi/parsedate
 	shallow = true
-	branch = HEAD
 [submodule "praise"]
 	path = praise
 	url = https://github.com/gaborcsardi/praise
 	shallow = true
-	branch = HEAD
 [submodule "presser"]
 	path = presser
 	url = https://github.com/gaborcsardi/presser
 	shallow = true
-	branch = HEAD
 [submodule "prettyunits"]
 	path = prettyunits
 	url = https://github.com/gaborcsardi/prettyunits
 	shallow = true
-	branch = HEAD
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/gaborcsardi/rcorpora
 	shallow = true
-	branch = HEAD
 [submodule "sankey"]
 	path = sankey
 	url = https://github.com/gaborcsardi/sankey
 	shallow = true
-	branch = HEAD
 [submodule "secret"]
 	path = secret
 	url = https://github.com/gaborcsardi/secret
 	shallow = true
-	branch = HEAD
