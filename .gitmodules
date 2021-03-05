@@ -32,6 +32,10 @@
 	path = parsedate
 	url = https://github.com/gaborcsardi/parsedate
 	shallow = true
+[submodule "prompt"]
+	path = prompt
+	url = https://github.com/gaborcsardi/prompt
+	shallow = true
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/gaborcsardi/rcorpora
