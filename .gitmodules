@@ -7,44 +7,55 @@
 	path = disposables
 	url = https://github.com/gaborcsardi/disposables
 	shallow = true
+	registered = true
 [submodule "dotenv"]
 	path = dotenv
 	url = https://github.com/gaborcsardi/dotenv
 	shallow = true
+	registered = true
 [submodule "franc"]
 	path = franc
 	url = https://github.com/gaborcsardi/franc
 	shallow = true
+	registered = true
 [submodule "isa2"]
 	path = isa2
 	url = https://github.com/gaborcsardi/isa
 	shallow = true
 	subdir = isa2
+	registered = true
 [submodule "keypress"]
 	path = keypress
 	url = https://github.com/gaborcsardi/keypress
 	shallow = true
+	registered = true
 [submodule "lpSolve"]
 	path = lpSolve
 	url = https://github.com/gaborcsardi/lpsolve
 	shallow = true
+	registered = true
 [submodule "parsedate"]
 	path = parsedate
 	url = https://github.com/gaborcsardi/parsedate
 	shallow = true
+	registered = true
 [submodule "prompt"]
 	path = prompt
 	url = https://github.com/gaborcsardi/prompt
 	shallow = true
+	registered = true
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/gaborcsardi/rcorpora
 	shallow = true
+	registered = true
 [submodule "sankey"]
 	path = sankey
 	url = https://github.com/gaborcsardi/sankey
 	shallow = true
+	registered = true
 [submodule "secret"]
 	path = secret
 	url = https://github.com/gaborcsardi/secret
 	shallow = true
+	registered = true
