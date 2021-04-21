@@ -44,6 +44,11 @@
 	url = https://github.com/gaborcsardi/prompt
 	shallow = true
 	registered = true
+[submodule "rcorpora"]
+	path = rcorpora
+	url = https://github.com/gaborcsardi/rcorpora
+	shallow = true
+	registered = true
 [submodule "sankey"]
 	path = sankey
 	url = https://github.com/gaborcsardi/sankey
