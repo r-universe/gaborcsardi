@@ -39,11 +39,6 @@
 	url = https://github.com/gaborcsardi/parsedate
 	shallow = true
 	registered = true
-[submodule "presser"]
-	path = presser
-	url = https://github.com/gaborcsardi/presser
-	shallow = true
-	registered = true
 [submodule "prompt"]
 	path = prompt
 	url = https://github.com/gaborcsardi/prompt
