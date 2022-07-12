@@ -18,12 +18,6 @@
 	url = https://github.com/gaborcsardi/franc
 	shallow = true
 	registered = true
-[submodule "isa2"]
-	path = isa2
-	url = https://github.com/gaborcsardi/isa
-	shallow = true
-	subdir = isa2
-	registered = true
 [submodule "keypress"]
 	path = keypress
 	url = https://github.com/gaborcsardi/keypress

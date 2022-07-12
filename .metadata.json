@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "isa2",
-    "oncran": true
-  },
-  {
     "package": "keypress",
     "oncran": true
   },
