@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "disposables"]
+	path = disposables
+	url = https://github.com/gaborcsardi/disposables
+	shallow = true
+	registered = true
+[submodule "dotenv"]
+	path = dotenv
+	url = https://github.com/gaborcsardi/dotenv
+	shallow = true
+	registered = true
 [submodule "franc"]
 	path = franc
 	url = https://github.com/gaborcsardi/franc
@@ -17,6 +27,11 @@
 [submodule "keypress"]
 	path = keypress
 	url = https://github.com/gaborcsardi/keypress
+	shallow = true
+	registered = true
+[submodule "lpSolve"]
+	path = lpSolve
+	url = https://github.com/gaborcsardi/lpsolve
 	shallow = true
 	registered = true
 [submodule "parsedate"]

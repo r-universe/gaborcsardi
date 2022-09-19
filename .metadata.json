@@ -1,5 +1,13 @@
 [
   {
+    "package": "disposables",
+    "oncran": true
+  },
+  {
+    "package": "dotenv",
+    "oncran": true
+  },
+  {
     "package": "franc",
     "oncran": true
   },
@@ -9,6 +17,10 @@
   },
   {
     "package": "keypress",
+    "oncran": true
+  },
+  {
+    "package": "lpSolve",
     "oncran": true
   },
   {
