@@ -1,34 +1,6 @@
 [
   {
-    "package": "sankey",
-    "oncran": true
-  },
-  {
-    "package": "isa2",
-    "oncran": true
-  },
-  {
-    "package": "parsedate",
-    "oncran": true
-  },
-  {
-    "package": "prompt",
-    "oncran": true
-  },
-  {
-    "package": "secret",
-    "oncran": true
-  },
-  {
     "package": "disposables",
-    "oncran": true
-  },
-  {
-    "package": "lpSolve",
-    "oncran": true
-  },
-  {
-    "package": "keypress",
     "oncran": true
   },
   {
@@ -40,7 +12,35 @@
     "oncran": true
   },
   {
+    "package": "isa2",
+    "oncran": true
+  },
+  {
+    "package": "keypress",
+    "oncran": true
+  },
+  {
+    "package": "lpSolve",
+    "oncran": true
+  },
+  {
+    "package": "parsedate",
+    "oncran": true
+  },
+  {
+    "package": "prompt",
+    "oncran": true
+  },
+  {
     "package": "rcorpora",
+    "oncran": true
+  },
+  {
+    "package": "sankey",
+    "oncran": true
+  },
+  {
+    "package": "secret",
     "oncran": true
   }
 ]
