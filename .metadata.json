@@ -1,26 +1,10 @@
 [
   {
-    "package": "disposables",
-    "oncran": true
-  },
-  {
-    "package": "dotenv",
-    "oncran": true
-  },
-  {
-    "package": "franc",
+    "package": "sankey",
     "oncran": true
   },
   {
     "package": "isa2",
-    "oncran": true
-  },
-  {
-    "package": "keypress",
-    "oncran": true
-  },
-  {
-    "package": "lpSolve",
     "oncran": true
   },
   {
@@ -32,15 +16,31 @@
     "oncran": true
   },
   {
-    "package": "rcorpora",
-    "oncran": true
-  },
-  {
-    "package": "sankey",
-    "oncran": true
-  },
-  {
     "package": "secret",
+    "oncran": true
+  },
+  {
+    "package": "disposables",
+    "oncran": true
+  },
+  {
+    "package": "lpSolve",
+    "oncran": true
+  },
+  {
+    "package": "keypress",
+    "oncran": true
+  },
+  {
+    "package": "dotenv",
+    "oncran": true
+  },
+  {
+    "package": "franc",
+    "oncran": true
+  },
+  {
+    "package": "rcorpora",
     "oncran": true
   }
 ]
