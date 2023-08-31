@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cyclocomp"]
+	path = cyclocomp
+	url = https://github.com/gaborcsardi/cyclocomp
 [submodule "disposables"]
 	path = disposables
 	url = https://github.com/gaborcsardi/disposables
@@ -30,9 +33,18 @@
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/gaborcsardi/rcorpora
+[submodule "rematch"]
+	path = rematch
+	url = https://github.com/gaborcsardi/rematch
+[submodule "rstack"]
+	path = rstack
+	url = https://github.com/gaborcsardi/rstack
 [submodule "sankey"]
 	path = sankey
 	url = https://github.com/gaborcsardi/sankey
 [submodule "secret"]
 	path = secret
 	url = https://github.com/gaborcsardi/secret
+[submodule "shinytoastr"]
+	path = shinytoastr
+	url = https://github.com/gaborcsardi/shinytoastr
