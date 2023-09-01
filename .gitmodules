@@ -48,3 +48,6 @@
 [submodule "shinytoastr"]
 	path = shinytoastr
 	url = https://github.com/gaborcsardi/shinytoastr
+[submodule "simplegraph"]
+	path = simplegraph
+	url = https://github.com/gaborcsardi/simplegraph
